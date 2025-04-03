@@ -6,7 +6,7 @@ public class Swap {
 //        swap(arr, 0, 4);
 
         reverse(arr);
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr)); // arr
 
     }
 

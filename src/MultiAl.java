@@ -1,7 +1,7 @@
 import javax.annotation.processing.SupportedSourceVersion;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//arr
 public class MultiAl {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

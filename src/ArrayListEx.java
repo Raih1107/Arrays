@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//arr
 public class ArrayListEx {
 
     public static void main(String[] args) {
